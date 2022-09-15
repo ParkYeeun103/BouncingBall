@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BouncingBall.cpp">
+    <ClCompile Include="..\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\glad.c">
+    <ClCompile Include="bouncingBall.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,6 +32,15 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="wood.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="tennisball.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="basketball.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="luxojr.png">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
